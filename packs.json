@@ -41,12 +41,6 @@
       "script_code": "Zsye", "file_name": "NotoEmoji-Regular.ttf", "version": "1.0.0",
       "unicode_ranges": [[8419,8419],[8986,8987],[9193,9210],[9728,10175],[11008,11263],[126976,129791]],
       "blocks_export": false, "category": "emoji", "display_order": 7
-    },
-    {
-  "id": "bengali", "name": "Bengali", "native_name": "বাংলা", "language_code": "bn",
-  "script_code": "Beng", "file_name": "NotoSansBengali-Regular.ttf", "version": "1.0.0",
-  "unicode_ranges": [[2432, 2559]],
-  "blocks_export": true, "category": "south_asia", "display_order": 8, "complex_shaping": true
-}
+    }
   ]
 }
