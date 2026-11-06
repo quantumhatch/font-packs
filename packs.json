@@ -1,0 +1,46 @@
+{
+  "packs": [
+    {
+      "id": "arabic", "name": "Arabic", "native_name": "العربية", "language_code": "ar",
+      "script_code": "Arab", "file_name": "NotoSansArabic-Regular.ttf", "version": "1.0.0",
+      "unicode_ranges": [[1536,1791],[1872,1919],[2160,2303],[64336,65023],[65136,65279]],
+      "blocks_export": true, "category": "middle_east", "display_order": 1, "complex_shaping": true
+    },
+    {
+      "id": "hebrew", "name": "Hebrew", "native_name": "עברית", "language_code": "he",
+      "script_code": "Hebr", "file_name": "NotoSansHebrew-Regular.ttf", "version": "1.0.0",
+      "unicode_ranges": [[1424,1535],[64285,64335]],
+      "blocks_export": true, "category": "middle_east", "display_order": 2, "complex_shaping": true
+    },
+    {
+      "id": "devanagari", "name": "Hindi", "native_name": "हिन्दी", "language_code": "hi",
+      "script_code": "Deva", "file_name": "NotoSansDevanagari-Regular.ttf", "version": "1.0.0",
+      "unicode_ranges": [[2304,2431],[43232,43263]],
+      "blocks_export": true, "category": "south_asia", "display_order": 3, "complex_shaping": true
+    },
+    {
+      "id": "chinese_simplified", "name": "Chinese (Simplified)", "native_name": "简体中文", "language_code": "zh-Hans",
+      "script_code": "Hans", "file_name": "NotoSansSC-Regular.ttf", "version": "1.0.0",
+      "unicode_ranges": [[12288,12351],[13312,19903],[19968,40959],[63744,64255],[65280,65519],[131072,195103]],
+      "blocks_export": true, "category": "east_asia", "display_order": 4
+    },
+    {
+      "id": "japanese", "name": "Japanese", "native_name": "日本語", "language_code": "ja",
+      "script_code": "Jpan", "file_name": "NotoSansJP-Regular.ttf", "version": "1.0.0",
+      "unicode_ranges": [[12288,12351],[12352,12543],[12784,12799],[13312,19903],[19968,40959],[63744,64255],[65280,65519],[131072,195103]],
+      "blocks_export": true, "category": "east_asia", "display_order": 5
+    },
+    {
+      "id": "korean", "name": "Korean", "native_name": "한국어", "language_code": "ko",
+      "script_code": "Kore", "file_name": "NotoSansKR-Regular.ttf", "version": "1.0.0",
+      "unicode_ranges": [[4352,4607],[12288,12351],[12592,12687],[13312,19903],[19968,40959],[43360,43391],[44032,55295],[63744,64255],[65280,65519],[131072,195103]],
+      "blocks_export": true, "category": "east_asia", "display_order": 6
+    },
+    {
+      "id": "emoji", "name": "Emoji", "native_name": "Emoji",
+      "script_code": "Zsye", "file_name": "NotoEmoji-Regular.ttf", "version": "1.0.0",
+      "unicode_ranges": [[8419,8419],[8986,8987],[9193,9210],[9728,10175],[11008,11263],[126976,129791]],
+      "blocks_export": false, "category": "emoji", "display_order": 7
+    }
+  ]
+}
